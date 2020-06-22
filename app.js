@@ -190,4 +190,4 @@ client.on('message', msg => {
 function sill() {
 }
 
-client.login('NzE0MzEzMTE3MzgzMDAwMDg3.XsuWig.Aigj-mux3DaVzZfYFpjK4MtZUU4');
+client.login('token');
